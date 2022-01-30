@@ -1,4 +1,6 @@
 
 # Quadcopter
 Optimal Control of a Quadcopter (LQR/LQG)
-φαοσδκφπακδφπαδκφπακδσπφαοδκφαποδκφπακδσοφ
+
+
+sadofadof
