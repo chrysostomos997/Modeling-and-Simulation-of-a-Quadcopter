@@ -20,7 +20,15 @@ controllers’ impact. In the end, the created code will be presented with the a
 Testing LQR/LQG IN DIFFERENT SITUATION : 
 
 
+<table>
+  <tr>
+    <td><![animation2 LQR ](https://user-images.githubusercontent.com/70040026/221353001-13e4bfac-6a84-4d2a-95fc-3c3ffea24258.gif) /></td>
+    <td><![animation LQR xronous2](https://user-images.githubusercontent.com/70040026/221353009-5f8e3be6-3b21-4374-9dc3-6d7c871f4e50.gif) /></td>
+  </tr>
+</table>
 
-![animation2 LQR ](https://user-images.githubusercontent.com/70040026/221353001-13e4bfac-6a84-4d2a-95fc-3c3ffea24258.gif)
 
-![animation LQR xronous2](https://user-images.githubusercontent.com/70040026/221353009-5f8e3be6-3b21-4374-9dc3-6d7c871f4e50.gif)
+
+
+
+
