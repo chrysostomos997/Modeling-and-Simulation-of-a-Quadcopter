@@ -1,10 +1,6 @@
 %% Generate signals
 % Before runnning this script, please load the WayPts matrix.
-% I provide a WayPts matrix from the DroneSignal_square_copy.mat file
-% It defines the trajectory of the moving Target.
-% You can change it, but NOTICE that ther you should not change the first
-% two rows, since it is defined as the "take-off" process of the
-% target/drone.
+
 dX = []      
 dY = []
 dZ = []
