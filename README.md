@@ -12,3 +12,7 @@ linearization of the model in Matlab and the analysis of the optimum control and
 (LQR & LQG). Furthermore, the simulations for different situations and the 3D animations used for the 
 realistic representation of the quadcopter’s track will be presented, as well as the analysis of the 
 controllers’ impact. In the end, the created code will be presented with the aim of reaching conclusions. 
+
+
+
+![3D animation2](https://user-images.githubusercontent.com/70040026/221352756-77e46a4a-ddd7-4be5-a62b-e962162cc301.gif)
