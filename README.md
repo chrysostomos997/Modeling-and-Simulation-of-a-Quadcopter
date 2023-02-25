@@ -15,4 +15,3 @@ controllers’ impact. In the end, the created code will be presented with the a
 
 
 
-![3D animation2](https://user-images.githubusercontent.com/70040026/221352756-77e46a4a-ddd7-4be5-a62b-e962162cc301.gif)
