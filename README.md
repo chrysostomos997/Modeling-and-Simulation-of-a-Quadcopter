@@ -15,17 +15,188 @@ controllers’ impact. In the end, the created code will be presented with the a
 
 
 
+**Testing LQR/LQG in realistic animations**
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="gifs/animation2 LQR .gif" />
+        <figcaption>LQR</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="gifs/LQG DOKIMI EMPODIA.gif" />
+        <figcaption>LQG</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
 
 
-Testing LQR/LQG IN DIFFERENT SITUATION : 
+
+**Testing LQR/LQG in realistic animations**
 
 
 <table>
   <tr>
-    <td><![animation2 LQR ](https://user-images.githubusercontent.com/70040026/221353001-13e4bfac-6a84-4d2a-95fc-3c3ffea24258.gif) /></td>
-    <td><![animation LQR xronous2](https://user-images.githubusercontent.com/70040026/221353009-5f8e3be6-3b21-4374-9dc3-6d7c871f4e50.gif) /></td>
+    <td>
+      <figure>
+        <img src="gifs/LQR DOKIMI romvos.gif" />
+        <figcaption>LQR</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="gifs/LQG DOKIMI romvos.gif" />
+        <figcaption>LQG</figcaption>
+      </figure>
+    </td>
   </tr>
 </table>
+
+**Testing LQR/LQG in realistic animations**
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="gifs/animation LQR xronous2.gif" />
+        <figcaption>LQR</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="gifs/animation LQG xronous.gif" />
+        <figcaption>LQG</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
+
+**Testing LQR changing Q-R**
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="gifs/big Q22.gif" />
+        <figcaption>HIGH Q</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="gifs/big R22.gif" />
+        <figcaption>HIGH R</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
+**DIAGRAMS OUTPUTS**
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="gifs/BIG Q .gif" />
+        <figcaption>HIGH Q</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="gifs/BIG R.gif" />
+        <figcaption>HIGH R</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
+**DIAGRAMS INPUTS-POWER**
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="gifs/BIG Q power.gif" />
+        <figcaption>HIGH Q</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="gifs/power.gif" />
+        <figcaption>HIGH R</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
+**Testing LQG changing Q-R with w=0.001 and v=0.001**
+
+
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="gifs/LQG BIG Q.gif" />
+        <figcaption>HIGH Q</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="gifs/BIG INPUT.gif" />
+        <figcaption>HIGH R</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
+
+**DIAGRAMS**
+
+
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="gifs/LQG BIG Q DIAGRAM OUTPUT.gif" />
+        <figcaption>HIGH Q</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="gifs/BIG INPUT2.gif" />
+        <figcaption>HIGH R</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
+
+**DIAGRAMS INPUTS-POWER**
+
+
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="gifs/LQG BIG Q DIAGRAM INPUT.gif" />
+        <figcaption>HIGH Q</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="gifs/BIG INPUT_INPUIT.gif" />
+        <figcaption>HIGH R</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 
 
 
