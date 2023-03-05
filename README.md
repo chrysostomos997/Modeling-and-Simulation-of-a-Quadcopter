@@ -1,5 +1,5 @@
 
-# Quadcopter Thesis
+# Quadcopter Control
 
 Implementation of LQR and LQG Controllers for Quadcopter Control
 
